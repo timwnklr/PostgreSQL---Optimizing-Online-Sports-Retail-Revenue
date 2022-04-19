@@ -1,2 +1,2 @@
-# PostgreSQL---Optimizing-Online-Sports-Retail-Revenue
+# PostgreSQL-Analyzing-DVD-Rental_Database
 Analyzing product data for an online sports retail company to optimize revenue.
